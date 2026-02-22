@@ -1,4 +1,4 @@
-# LangChain RAG with Pinecone - Lab 2
+# LangChain RAG with Pinecone 
 
 This project is the second laboratory in the RAG series. The goal is to build a complete
 Retrieval-Augmented Generation system that can answer questions based on documents
@@ -197,3 +197,4 @@ the same.
 
 ## Course
 - TDSE-Transformacion Digital y Soluciones Empresariales 
+
