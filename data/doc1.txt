@@ -1,0 +1,3 @@
+El algoritmo XGBoost fue desarrollado por Tianqi Chen.
+XGBoost es un modelo basado en árboles de decisión que utiliza boosting.
+Fue presentado oficialmente en 2016.

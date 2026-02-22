@@ -1,0 +1,3 @@
+El proyecto Hydra-21 fue desarrollado internamente por la empresa TechNova.
+Hydra-21 optimiza procesos logísticos usando modelos híbridos.
+El sistema opera en servidores ubicados en Bogotá.
